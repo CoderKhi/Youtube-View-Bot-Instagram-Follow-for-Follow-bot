@@ -3,12 +3,7 @@ This is a program that uses selenium and a chrome driver to get you YouTube view
 
 Please do not hold me accountable for any negative repercussions that come with using this program!
 
-██╗  ██╗ ██████╗ ██╗    ██╗    ████████╗ ██████╗     ██╗   ██╗███████╗███████╗
-██║  ██║██╔═══██╗██║    ██║    ╚══██╔══╝██╔═══██╗    ██║   ██║██╔════╝██╔════╝
-███████║██║   ██║██║ █╗ ██║       ██║   ██║   ██║    ██║   ██║███████╗█████╗  
-██╔══██║██║   ██║██║███╗██║       ██║   ██║   ██║    ██║   ██║╚════██║██╔══╝  
-██║  ██║╚██████╔╝╚███╔███╔╝       ██║   ╚██████╔╝    ╚██████╔╝███████║███████╗
-╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝        ╚═╝    ╚═════╝      ╚═════╝ ╚══════╝╚══════╝
+---------------------- HOW TO USE ----------------------
                                                                               
                                                                               
 Inside of the if/elif statements, you must change it to your prefered parameters.
